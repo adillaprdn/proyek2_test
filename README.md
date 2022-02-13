@@ -1,2 +1,5 @@
 # proyek2_test
-Untuk testing
+
+Tanggal 13 - 02 - 2022
+- Discussion About
+- 1. 
