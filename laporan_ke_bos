@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main()
+{
+  printf("Halo ini saya sedang  belajar Git dan GitHub");
+  
+  return 0;
+}
